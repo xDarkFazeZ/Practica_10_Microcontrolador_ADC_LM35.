@@ -1,0 +1,1 @@
+# Practica_10_Microcontrolador_ADC_LM35.
